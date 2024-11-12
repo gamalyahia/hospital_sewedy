@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="hospitalModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Doctor">
+    <Key>
+      <PropertyRef Name="doctorID" />
+    </Key>
+    <Property Name="doctorID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="doctorName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="doctorSpeclization" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Patients" Relationship="Self.FK__Patient__doctorI__4BAC3F29" FromRole="Doctor" ToRole="Patient" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="patientID" />
+    </Key>
+    <Property Name="patientID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="patientName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="patientStatus" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="doctorID" Type="Int32" />
+    <NavigationProperty Name="Doctor" Relationship="Self.FK__Patient__doctorI__4BAC3F29" FromRole="Patient" ToRole="Doctor" />
+  </EntityType>
+  <Association Name="FK__Patient__doctorI__4BAC3F29">
+    <End Role="Doctor" Type="Self.Doctor" Multiplicity="0..1" />
+    <End Role="Patient" Type="Self.Patient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Doctor">
+        <PropertyRef Name="doctorID" />
+      </Principal>
+      <Dependent Role="Patient">
+        <PropertyRef Name="doctorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="hospitalEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Doctors" EntityType="Self.Doctor" />
+    <EntitySet Name="Patients" EntityType="Self.Patient" />
+    <AssociationSet Name="FK__Patient__doctorI__4BAC3F29" Association="Self.FK__Patient__doctorI__4BAC3F29">
+      <End Role="Doctor" EntitySet="Doctors" />
+      <End Role="Patient" EntitySet="Patients" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

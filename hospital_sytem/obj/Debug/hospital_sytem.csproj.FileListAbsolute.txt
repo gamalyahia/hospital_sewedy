@@ -1,0 +1,98 @@
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe.config
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.pdb
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.cache
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.lref
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.g.resources
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.Properties.Resources.resources
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.pdb
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\Modify.g.cs
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_Content.g.cs
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\Modify.baml
+C:\Users\Admin\Desktop\hospital\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital.41C92F97.Up2Date
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe.config
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.pdb
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\Modify.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_Content.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.lref
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\Modify.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.g.resources
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.Properties.Resources.resources
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital.41C92F97.Up2Date
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.pdb
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe.config
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.pdb
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\Modify.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_Content.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.lref
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\App.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\Modify.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.g.resources
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.Properties.Resources.resources
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital.41C92F97.Up2Date
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 1\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.pdb
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe.config
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.pdb
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\Modify.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\Viewpage.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\WelcomePage.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_Content.g.cs
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.lref
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\App.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\Modify.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\Viewpage.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\WelcomePage.baml
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.g.resources
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.Properties.Resources.resources
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital.41C92F97.Up2Date
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.exe
+C:\Users\Admin\Desktop\new hospital\hospital_sewedy 2\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.pdb
